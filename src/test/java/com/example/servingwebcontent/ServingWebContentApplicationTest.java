@@ -51,4 +51,10 @@ public class ServingWebContentApplicationTest {
 				.andExpect(content().string(containsString("Hello, Greg!")));
 	}
 
+	@Test
+	public void main() throws Exception {
+		ServingWebContentApplication.main(new String[] {});
+		assertNull(null);
+	}
+
 }
