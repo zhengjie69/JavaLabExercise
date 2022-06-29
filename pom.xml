@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.ncs.ship-hats</groupId>
 	<artifactId>java-ship-hats</artifactId>
-	<version>1.1</version>
+	<version>1.2</version>
 	<name>java-ship-hats</name>
 	<description>NCS SHIP-HATS java app</description>
 	<properties>
